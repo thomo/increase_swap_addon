@@ -1,3 +1,5 @@
-name:  Increase Swap Add-on for Home Assistant
-url: 'https://github.com/TazzerMAN/increase_swap_addon'
-maintainer: TazzerMAN <tazzerman@nsgn.eu>
+# the repo is a fork from https://github.com/TazzerMAN/increase_swap_addon
+# to use my fork I update the settings below
+name:  Increase Swap Add-on for Home Assistant (forked)
+url: 'https://github.com/thomo/increase_swap_addon'
+maintainer: Thomas Mohaupt <thomas.mohaupt@gmail.com>
